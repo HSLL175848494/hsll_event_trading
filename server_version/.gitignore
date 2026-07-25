@@ -1,7 +1,0 @@
-.runtime/
-data/
-logs/
-config.env
-app/*.AppImage
-*.log
-node_modules/
