@@ -12,7 +12,7 @@
 <img width="1880" height="909" alt="image" src="https://github.com/user-attachments/assets/9ff118ff-2815-4e4a-befd-37c59de3aa42" />
 
 部分订单统计：
-<img width="1697" height="913" alt="image" src="https://github.com/user-attachments/assets/105a2047-92bb-4c54-bfc4-510eff384f1d" />
+<img width="1914" height="1075" alt="image" src="https://github.com/user-attachments/assets/b8c7959b-30c2-416b-a680-4eed1850b174" />
 
 ## 交流与支持
 
