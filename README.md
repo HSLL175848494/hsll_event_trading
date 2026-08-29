@@ -11,8 +11,8 @@
 七月事件实盘成功收官，共计盈利 11.8 单。若每笔投入金额为账户资金的 3%，则本月收益为：11.8 × 3% = 35.4%。服务器统计图：
 <img width="1880" height="909" alt="image" src="https://github.com/user-attachments/assets/9ff118ff-2815-4e4a-befd-37c59de3aa42" />
 
-## 实盘战绩（8月上半月）
-<img width="1888" height="826" alt="image" src="https://github.com/user-attachments/assets/5ed16e68-f025-4622-9161-93d65a45243c" />
+## 实盘战绩（8月，截止2026年8月29日）
+<img width="1923" height="836" alt="image" src="https://github.com/user-attachments/assets/a1bf527c-c38f-48a5-88fd-bc2a4678f791" />
 
 自动下单程序：
 <img width="1914" height="1075" alt="image" src="https://github.com/user-attachments/assets/b8c7959b-30c2-416b-a680-4eed1850b174" />
