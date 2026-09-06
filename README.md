@@ -9,12 +9,12 @@
 ## 实盘战绩（2026年7月）
 
 七月事件实盘收官，共计盈利 11.8 单。若每笔投入金额为账户资金的 3%，则本月收益为：11.8 × 3% = 35.4%。服务器统计图：
-<img width="1880" height="909" alt="image" src="https://github.com/user-attachments/assets/9ff118ff-2815-4e4a-befd-37c59de3aa42" />
+<img width="1924" height="1071" alt="image" src="https://github.com/user-attachments/assets/3e17b2ae-715c-4a16-aeb4-6d3176516c46" />
 
 ## 实盘战绩（2026年8月）
 
 八月事件实盘收官，共计盈利 19.45 单。若每笔投入金额为账户资金的 3%，则本月收益为：11.8 × 3% = 58.35%。服务器统计图：
-<img width="1865" height="821" alt="image" src="https://github.com/user-attachments/assets/5eff6b13-12b6-4ee1-a320-fd6f432076f1" />
+<img width="1909" height="1080" alt="image" src="https://github.com/user-attachments/assets/bdc8dce3-bf43-4383-b3fd-8d646c57ab8f" />
 
 ## 实盘战绩（2026年9月，持续更新中）
 九月事件实盘，目前盈利 9.10 单
@@ -22,7 +22,7 @@
 
 ## 软件页面展示
 
-服务器订单中心，使用者监控服务器订单，拒绝虚假数据，确保每笔数据真实可查
+服务器订单中心，使用者可随时监控服务器订单，杜绝虚假数据，确保每笔数据真实可查
 <img width="1915" height="1084" alt="image" src="https://github.com/user-attachments/assets/a71d229a-30b3-4ffc-bb94-aa8cbe5e3657" />
 <img width="1917" height="1079" alt="image" src="https://github.com/user-attachments/assets/1bdad6c5-e1c9-48e5-bdce-0269de6fbd85" />
 
