@@ -18,7 +18,7 @@
 
 ## 实盘战绩（2026年9月，持续更新中）
 九月事件实盘，目前盈利 9.10 单
-<img width="1914" height="1083" alt="image" src="https://github.com/user-attachments/assets/aec797ee-0412-4824-a14e-e4038af22b66" />
+<img width="1912" height="1076" alt="image" src="https://github.com/user-attachments/assets/462aec61-b983-47ec-ab47-07e15766d98d" />
 
 ## 软件页面展示
 
