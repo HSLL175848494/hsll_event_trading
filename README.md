@@ -1,24 +1,31 @@
 # 事件合约自动交易工具
 
-支持 Windows / Linux 桌面端 ，HIBT交易所，集成信号接收、自动下单、风控管理与数据统计的全功能交易助手。
+支持 Windows / Linux 桌面端 ，HIBT交易所，集成信号接收、自动下单、风控管理与数据统计交易软件。低延迟（可在2-2.5s内完成下单），低回撤 ，高胜率 (60%+) 
 
 ## 核心功能
 
 本工具可接收交易信号（方向、置信度、有效期），结合用户预设参数自动执行下单。用户可自定义单笔金额，设置信号阈值（即最低置信度要求），并一键控制自动下单的开启与关闭。在风控方面，支持设定每日最大订单数、每日累计交易金额上限，以及止损与止盈比例。同时，工具会跟踪待验证订单，保存订单明细及结算结果，并提供日度与月度订单统计，帮助用你面掌握交易情况。
 
-## 实盘战绩（七月）
+## 实盘战绩（2026年7月）
 
-七月事件实盘成功收官，共计盈利 11.8 单。若每笔投入金额为账户资金的 3%，则本月收益为：11.8 × 3% = 35.4%。服务器统计图：
+七月事件实盘收官，共计盈利 11.8 单。若每笔投入金额为账户资金的 3%，则本月收益为：11.8 × 3% = 35.4%。服务器统计图：
 <img width="1880" height="909" alt="image" src="https://github.com/user-attachments/assets/9ff118ff-2815-4e4a-befd-37c59de3aa42" />
 
-## 实盘战绩（8月，截止2026年8月29日）
-<img width="1923" height="836" alt="image" src="https://github.com/user-attachments/assets/a1bf527c-c38f-48a5-88fd-bc2a4678f791" />
+## 实盘战绩（2026年8月）
 
-自动下单程序：
-<img width="1914" height="1075" alt="image" src="https://github.com/user-attachments/assets/b8c7959b-30c2-416b-a680-4eed1850b174" />
+八月事件实盘收官，共计盈利 19.45 单。若每笔投入金额为账户资金的 3%，则本月收益为：11.8 × 3% = 58.35%。服务器统计图：
+<img width="1865" height="821" alt="image" src="https://github.com/user-attachments/assets/5eff6b13-12b6-4ee1-a320-fd6f432076f1" />
 
-除客户端内置的默认信号服务器外，工具支持切换到用户自定义信号服务器，只需要提服务器供符合对应 api 即可。
+## 实盘战绩（2026年9月，持续更新中）
+九月事件实盘，目前盈利 9.10 单
+<img width="1914" height="1083" alt="image" src="https://github.com/user-attachments/assets/aec797ee-0412-4824-a14e-e4038af22b66" />
+
+## 软件页面展示
+
+服务器订单中心，使用者监控服务器订单，拒绝虚假数据，确保每笔数据真实可查
+<img width="1915" height="1084" alt="image" src="https://github.com/user-attachments/assets/a71d229a-30b3-4ffc-bb94-aa8cbe5e3657" />
+<img width="1917" height="1079" alt="image" src="https://github.com/user-attachments/assets/1bdad6c5-e1c9-48e5-bdce-0269de6fbd85" />
 
 ## 交流与支持
 
-QQ 交流群：901395075，欢迎加入，**可免费试用工具**，获取最新动态。
+QQ 交流群：901395075，欢迎加入，无门槛 **可免费长期试用工具**，获取最新动态。
