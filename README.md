@@ -4,26 +4,26 @@
 
 ## 核心功能
 
-本工具可接收交易信号（方向、置信度、有效期），结合用户预设参数自动执行下单。用户可自定义单笔金额，设置信号阈值（即最低置信度要求），并一键控制自动下单的开启与关闭。在风控方面，支持设定每日最大订单数、每日累计交易金额上限，以及止损与止盈比例。同时，工具会跟踪待验证订单，保存订单明细及结算结果，并提供日度与月度订单统计，帮助用你面掌握交易情况。
+工具可接收交易信号（方向、置信度、有效期），结合用户预设参数自动执行下单。用户可自定义单笔金额，设置信号阈值（即最低置信度要求），并一键控制自动下单的开启与关闭。在风控方面，支持设定每日最大订单数、每日累计交易金额上限，以及止损与止盈比例。同时，工具会跟踪待验证订单，保存订单明细及结算结果，并提供日度与月度订单统计，帮助用你面掌握交易情况。
 
 ## 实盘战绩（2026年7月）
 
-七月事件实盘收官，共计盈利 11.8 单。若每笔投入金额为账户资金的 3%，则本月收益为：11.8 × 3% = 35.4%。服务器统计图：
+七月事件实盘共计盈利 11.8 单。若每笔投入金额为账户资金的 3%，则本月收益为：11.8 × 3% = 35.4%。服务器统计图：
 <img width="1924" height="1071" alt="image" src="https://github.com/user-attachments/assets/3e17b2ae-715c-4a16-aeb4-6d3176516c46" />
 
 ## 实盘战绩（2026年8月）
 
-八月事件实盘收官，共计盈利 19.45 单。若每笔投入金额为账户资金的 3%，则本月收益为：11.8 × 3% = 58.35%。服务器统计图：
+八月事件实盘共计盈利 19.45 单。若每笔投入金额为账户资金的 3%，则本月收益为：11.8 × 3% = 58.35%。服务器统计图：
 <img width="1909" height="1080" alt="image" src="https://github.com/user-attachments/assets/bdc8dce3-bf43-4383-b3fd-8d646c57ab8f" />
 
 ## 实盘战绩（2026年9月，持续更新中）
-九月事件实盘，目前盈利 9.10 单
-<img width="1912" height="1076" alt="image" src="https://github.com/user-attachments/assets/462aec61-b983-47ec-ab47-07e15766d98d" />
+九月事件实盘，目前盈利 14.15 单
+<img width="1924" height="1075" alt="image" src="https://github.com/user-attachments/assets/04c462f7-bf0c-4d93-8816-9e508f3e3acd" />
 
 ## 软件页面展示
 
 服务器订单中心，使用者可随时监控服务器订单，杜绝虚假数据，确保每笔数据真实可查
-<img width="1915" height="1084" alt="image" src="https://github.com/user-attachments/assets/a71d229a-30b3-4ffc-bb94-aa8cbe5e3657" />
+<img width="1917" height="1087" alt="image" src="https://github.com/user-attachments/assets/48d4786d-8fb8-4ec7-bf29-4efcdcd8fa6e" />
 <img width="1917" height="1079" alt="image" src="https://github.com/user-attachments/assets/1bdad6c5-e1c9-48e5-bdce-0269de6fbd85" />
 
 ## 交流与支持
