@@ -22,7 +22,7 @@
 
 ## 软件页面展示
 
-服务器订单中心，使用者可随时监控服务器订单，杜绝虚假数据，确保每笔数据真实可查
+服务器订单中心，使用者可随时查询服务器订单，杜绝虚假数据，确保每笔数据真实可查
 <img width="1917" height="1087" alt="image" src="https://github.com/user-attachments/assets/48d4786d-8fb8-4ec7-bf29-4efcdcd8fa6e" />
 <img width="1917" height="1079" alt="image" src="https://github.com/user-attachments/assets/1bdad6c5-e1c9-48e5-bdce-0269de6fbd85" />
 
