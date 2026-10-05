@@ -17,7 +17,7 @@
 <img width="1909" height="1080" alt="image" src="https://github.com/user-attachments/assets/bdc8dce3-bf43-4383-b3fd-8d646c57ab8f" />
 
 ## 实盘战绩（2026年9月）
-七月事件实盘共计盈利 8.05 单。若每笔投入金额为账户资金的 3%，则本月收益为：8.05 × 3% = 24.15%。服务器统计图：
+九月事件实盘共计盈利 8.05 单。若每笔投入金额为账户资金的 3%，则本月收益为：8.05 × 3% = 24.15%。服务器统计图：
 <img width="1917" height="1076" alt="image" src="https://github.com/user-attachments/assets/920637a9-c83f-47bf-8809-dec814f4cbd3" />
 
 ## 软件页面展示
